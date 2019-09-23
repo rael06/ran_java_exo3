@@ -115,6 +115,7 @@ public class JaugeInterface extends JFrame implements ActionListener {
         window.add(jaugePanel);
     }
 
+
     @Override
     public void actionPerformed(ActionEvent e) {
         String errorsStr = "";
